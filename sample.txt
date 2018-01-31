@@ -1,1 +1,1 @@
-This is a sample text,  Oh no!
+This is a sample text, which has been altered
